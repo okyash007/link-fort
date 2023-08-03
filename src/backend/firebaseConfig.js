@@ -4,12 +4,12 @@ import { getStorage } from "firebase/storage";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCJ6MP3dd8yGFv5FwxDBF4aQgw0gbJ_0lY",
-  authDomain: "linkforest-helloyash.firebaseapp.com",
-  projectId: "linkforest-helloyash",
-  storageBucket: "linkforest-helloyash.appspot.com",
-  messagingSenderId: "444648063384",
-  appId: "1:444648063384:web:81046d6aab8dd057baabed"
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: ""
 };
 
 const app = initializeApp(firebaseConfig);
